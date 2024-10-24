@@ -28,7 +28,7 @@
             "url": "https://github.com/mayanksnyvik/two-factor-auth.git"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "require": {
     }

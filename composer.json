@@ -1,0 +1,26 @@
+{
+    "name": "mayanksnyvik/two-factor-auth",
+    "description": "Two Factor authentication package",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mayanksnyvik\\TwoFactorAuth\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mayanksnyvik\\TwoFactorAuth\\TwoFactorServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "mayanksnyvik",
+            "email": "mayank@snayvik.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

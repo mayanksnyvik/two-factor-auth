@@ -3,6 +3,7 @@
     "description": "Two Factor authentication package",
     "type": "package",
     "license": "MIT",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "Mayanksnyvik\\TwoFactorAuth\\": "src/"
@@ -23,14 +24,13 @@
     ],
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https:/mayanksnyvik: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@github.com/mayanksnyvik/two-factor-auth"
+            "type": "git",
+            "url": "https:/github.com/mayanksnyvik/two-factor-auth"
         }
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "mayanksnyvik/two-factor-auth": "^1.0"
     }
 }
 

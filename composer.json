@@ -25,14 +25,12 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https:/github.com/mayanksnyvik/two-factor-auth.git"
+            "url": "https://github.com/mayanksnyvik/two-factor-auth.git"
         }
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-         "mayanksnyvik/two-factor-auth": "^1.0"  
+         
     }
 }
-
-

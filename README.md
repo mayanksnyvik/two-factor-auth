@@ -3,8 +3,8 @@ Laravel Two Factor Authentication  package
 After Laravel project installation 
 
 
-1.first create a  folder on root directory snayvik_tech_labs.
-2.Take a git clone in snayvik_tech_labs folder with this command  git clone https://github.com/mayanksnyvik/two-factor-auth.git
+1.first create a  folder on root directory mayanksnyvik.
+2.Take a git clone in mayanksnyvik folder with this command  git clone https://github.com/mayanksnyvik/two-factor-auth.git
 3. Add this code in composer json file in requre section in "mayanksnyvik/two-factor-auth": "1.0" 
 4.  Add this code in composer json file after script section 
   "repositories":[

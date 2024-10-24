@@ -16,7 +16,7 @@ After Laravel project installation
             }
         }
             
-    ]
+    ],
 5.come out from mayanksnyvik folder.
 6. Run composer update command
 7. Install Laravel ui/auth

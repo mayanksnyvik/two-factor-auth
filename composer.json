@@ -21,6 +21,15 @@
             "email": "mayank@snayvik.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "mayanksnyvik/two-factor-auth"
+        }
+    ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "mayanksnyvik/two-factor-auth":"dev-master",
+        "laravel-ui":"^4.5"
+    }
 }

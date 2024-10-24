@@ -16,7 +16,7 @@ After Laravel project installation
             }
         }
             
-    ],
+    ]
 
 5. Run composer update command
 6. Install Laravel ui/auth

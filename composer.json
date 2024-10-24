@@ -24,7 +24,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "mayanksnyvik/two-factor-auth"
+            "url": "https:/mayanksnyvik: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@github.com/mayanksnyvik/two-factor-auth"
         }
     ],
     "minimum-stability": "dev",
@@ -33,3 +33,5 @@
         "mayanksnyvik/two-factor-auth": "^1.0"
     }
 }
+
+

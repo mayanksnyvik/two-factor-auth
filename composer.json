@@ -28,8 +28,8 @@
         }
     ],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
-        "mayanksnyvik/two-factor-auth":"dev-main",
-        "laravel-ui":"^4.5"
+        "mayanksnyvik/two-factor-auth": "^1.0"
     }
 }

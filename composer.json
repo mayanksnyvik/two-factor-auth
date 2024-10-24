@@ -23,13 +23,13 @@
     ],
     "repositories": [
         {
-            "type": "path",
+            "type": "vcs",
             "url": "mayanksnyvik/two-factor-auth"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "mayanksnyvik/two-factor-auth":"dev-master",
+        "mayanksnyvik/two-factor-auth":"dev-main",
         "laravel-ui":"^4.5"
     }
 }

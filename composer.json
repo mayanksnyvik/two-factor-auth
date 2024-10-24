@@ -31,7 +31,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-         "mayanksnyvik/two-factor-auth": "dev-main"
+         "mayanksnyvik/two-factor-auth": "^1.0"
     }
 }
 

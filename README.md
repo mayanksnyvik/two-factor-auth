@@ -17,9 +17,9 @@ After Laravel project installation
         }
             
     ]
-
-5. Run composer update command
-6. Install Laravel ui/auth
-7. Run command php artisan migrate
-8. Update mail configuration in your .env file
-9. add middleware to '2fa' to home route and home route must be there.
+5.come out from mayanksnyvik folder.
+6. Run composer update command
+7. Install Laravel ui/auth
+8. Run command php artisan migrate
+9. Update mail configuration in your .env file
+10. add middleware to '2fa' to home route and home route must be there.
